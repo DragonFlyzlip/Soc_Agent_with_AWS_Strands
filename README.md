@@ -1,6 +1,6 @@
-# SecuAssist: Cybersecurity Multi-Agent Assistant
+# Soc Assist: Cybersecurity Multi-Agent Assistant
 
-**SecuAssist** is a modular, multi-agent cybersecurity assistant powered by Claude 3 Sonnet via Amazon Bedrock and built with the [Strands framework](https://github.com/strands-project/strands).  
+**Soc Assist** is a modular, multi-agent cybersecurity assistant powered by Claude 3 Sonnet via Amazon Bedrock and built with the [Strands framework](https://github.com/strands-project/strands).  
 It automates and accelerates Security Operations Center (SOC) workflows like IOC enrichment, log parsing, incident report generation, and mitigation scripting — all via a natural language CLI.
 
 ---
